@@ -1,0 +1,17 @@
+{
+"appid": "com.qq.docs.tdappdesktop",
+"name": "tdappdesktop",
+"version": "2.2.22",
+"arch": ["amd64"],
+"permissions": {
+    "autostart": false,
+    "notification": true,
+    "trayicon": true,
+    "clipboard": true,
+    "account": true,
+    "bluetooth": false,
+    "camera": false,
+    "audio_record": true,
+    "installed_apps": false
+}
+}

@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=腾讯文档
+Exec=/opt/apps/com.qq.docs.tdappdesktop/files/bin/tdappdesktop %U
+Terminal=false
+Type=Application
+Icon=/opt/apps/com.qq.docs.tdappdesktop/entries/icons/hicolor/256x256/apps/tdappdesktop.png
+StartupWMClass=tdappdesktop
+Comment=腾讯文档
+Categories=Utility;
